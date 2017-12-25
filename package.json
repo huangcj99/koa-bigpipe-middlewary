@@ -1,6 +1,6 @@
 {
-  "name": "koa-bigpipe-middlewary",
-  "version": "0.0.1",
+  "name": "joe-koa-bigpipe-middlewary",
+  "version": "1.0.0",
   "description": "bigpipe middlewary koa stream",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smallcatcat-joe/koa-bigpipe-middlewary.git"
+    "url": "git+https://github.com/smallcatcat-joe/joe-koa-bigpipe-middlewary.git"
   },
   "keywords": [
     "koa",
@@ -19,9 +19,9 @@
   "author": "joe <smallcatcat.joe@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smallcatcat-joe/koa-bigpipe-middlewary/issues"
+    "url": "https://github.com/smallcatcat-joe/joe-koa-bigpipe-middlewary/issues"
   },
-  "homepage": "https://github.com/smallcatcat-joe/koa-bigpipe-middlewary#readme",
+  "homepage": "https://github.com/smallcatcat-joe/joe-koa-bigpipe-middlewary#readme",
   "dependencies": {
     "handlebars": "^4.0.11",
     "koa-log4": "^2.3.0",
